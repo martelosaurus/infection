@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.3.22)  10 APR 2020 05:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2020.3.22)  10 APR 2020 05:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -124,7 +124,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box28
 \@float@everytoks=\toks21
 \@floatcapt=\box29
-) (./infection.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./infection.aux)
 \openout1 = `infection.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -205,20 +209,20 @@ e
 <curve.pdf, id=1, 462.52798pt x 346.89601pt>
 File: curve.pdf Graphic file (type pdf)
  <use curve.pdf>
-Package pdftex.def Info: curve.pdf used on input line 15.
+Package pdftex.def Info: curve.pdf used on input line 16.
 (pdftex.def)             Requested size: 462.52684pt x 346.89516pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./curve.pdf>] [2] (./infec
 tion.aux) ) 
 Here is how much of TeX's memory you used:
- 2178 strings out of 493013
- 29339 string characters out of 6135682
- 93652 words of memory out of 5000000
- 5706 multiletter control sequences out of 15000+600000
+ 2212 strings out of 493013
+ 29937 string characters out of 6135682
+ 93931 words of memory out of 5000000
+ 5736 multiletter control sequences out of 15000+600000
  7357 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,25p,779b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,5n,25p,658b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/s
@@ -228,7 +232,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb>
-Output written on infection.pdf (2 pages, 99552 bytes).
+Output written on infection.pdf (2 pages, 98995 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
